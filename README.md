@@ -93,4 +93,3 @@ for hash_value in hashes:
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
-```
