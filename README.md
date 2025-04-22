@@ -1,5 +1,3 @@
-Sure! Here's a `README.md` file for your GitHub repository, detailing the setup and usage of your script. I've removed the API key for security reasons.
-
 ```markdown
 # VirusTotal Hash Checker
 
@@ -96,5 +94,3 @@ for hash_value in hashes:
 
 This project is licensed under the MIT License. See the LICENSE file for details.
 ```
-
-Feel free to customize the `README.md` file as needed. If you have any questions or need further assistance, let me know!
