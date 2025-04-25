@@ -449,8 +449,8 @@ def get_bitdefender_result(hash_value, api_key):
             response = requests.post(url + '/analyse', headers=headers)
             if response.status_code
 
-
-
+```
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
+```
